@@ -1,0 +1,227 @@
+Gianmarco
+Mon Aug 20				4
+Tue Aug 21				4
+Thu Aug 23				5.5
+
+Tue Aug 28				5.5
+Wed Aug 29				5
+Thu Aug 30				4
+
+Tue Sept 4				4.5
+Wed Sept 5				5.5
+
+Mon Sept 10				4
+Tue Sept 11				4
+Thu Sept 13				4
+
+Tue Sept 18				4
+Thu Sept 19				4
+Fri Sept 21				3.5
+
+Mon Sept 24				3.5
+Tue Sept 25				3.5
+Thu Sept 27				4
+Fri Sept 28				fixed minor issue
+
+Mon Oct 1				4
+Tue Oct 2				4
+Thu Oct 4				3
+
+Mon Oct 8				6
+Tue Oct 9				4.5
+
+Mon Oct 15				5
+Tue Oct 16				4
+Fri Oct 19				looked into jitsi js
+
+Mon Oct 22				4
+Tue Oct 23				3.5
+
+Mon Oct 29				4.5
+Tue Oct 30				4
+Fri Nov 2				5
+
+Mon Nov 5				4
+Tue Nov 6				4
+Fri Nov 9				1
+
+Tue Nov 13				5
+Thu Nov 15				4
+Fri Nov 16				4
+
+Mon Nov 19				4
+Tue Nov 20				4.5
+
+Mon Nov 26				5
+Tue Nov 27				5.5
+Thu Nov 29				5
+
+Mon Dec 3				4
+Wed Dec 5				6
+
+Mon Dec 10				4
+Tue Dec 11				4
+
+Mon Dec 17				4
+Tue Dec 18				4
+Wed Dec 19				4
+
+Wed Jan 2				4
+Fri Jan 4				4
+
+Wed Jan 9				3
+Fri Jan 11				4
+
+Mon Jan 14				3.5
+Tue Jan 15				3.5
+
+Mon Jan 21				5
+Fri Jan 25				4
+
+
+
+Prachi
+Thu Dec 6				5.5
+Sat Dec 8				2
+
+Tue Jan 8				3
+Fri Jan 11				7
+
+Tue Jan 15				6
+Thu Jan 17				5
+
+Tue Jan 22				6
+Thu Jan 24				5
+
+Tue Jan 29				5
+Thu Jan 31				
+
+
+
+Tristan
+Thu Jan 10				3.5
+Fri Jan 11				4
+
+Thu Jan 17				5
+Fri Jan 18				5
+
+Thu Jan 24				5
+Fri Jan 25				5
+
+Thu Jan 31				5
+
+
+
+Chris A
+Fri Nov 30				7
+Fri Dec 7				4
+
+Mon Dec 10				6
+Tue Dec 11				6
+Wed Dec 12				5
+
+Thu Jan 10				3
+Fri Jan 11				6.5
+
+Thu Jan 17				3
+
+Tue Jan 22				3
+Thu Jan 24				3
+Fri Jan 25				6
+
+Thu Jan 31				3
+
+
+
+Lauren
+Fri Jan 11				6.5
+Fri Jan 18				7
+Fri Jan 25				6.5
+
+
+Lily
+Mon Jan 14				5
+Fri Jan 18				5
+
+Mon Jan 21				5
+Fri Jan 25				5
+
+Mon Jan 28				5
+
+
+Josh
+Fri Jan 11				5
+
+Thu Jan 17				5
+Fri Jan 18				5
+
+Thu Jan 31				3
+
+
+AJ
+Fri Jan 18				5.5
+
+Tue Jan 22				5
+Fri Jan 25				5
+
+Tue Jan 29				5
+
+
+Gabe
+Fri Jan 25				3
+
+Mon Jan 28				3
+Tue Jan 29				5
+
+
+Kain
+Thu Jan 24				5
+Fri Jan 25				5
+
+Thu Jan 31				5
+
+
+
+
+
+
+Roni
+Thu Sept 27				2
+
+Tue Oct 2				4
+Thu Oct 4				4
+
+Tue Oct 9				questions via email
+Thu Oct 11				3
+
+Tue Oct 16				questions via email
+Thu Oct 18				4
+
+Tue Oct 23				4
+Thu Oct 25				4
+
+Tue Oct 30				4
+Thu Nov 1				4
+
+Tue Nov 6				3.5
+
+Tue Nov 13				3
+Thu Nov 15				4
+
+Tue Nov 20				4
+
+Wed Dec 5				4
+Thu Dec 6				4.5
+Sat Dec 8				1
+
+Wed Dec 12				4
+
+Tue Dec 18				4
+Wed Dec 19				3
+
+Wed Jan 2				4
+Fri Jan 4				2
+
+
+
+
