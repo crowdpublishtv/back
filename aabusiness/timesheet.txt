@@ -1,3 +1,356 @@
+Prachi
+Thu Dec 6				5.5
+Sat Dec 8				2
+
+Tue Jan 8				3
+Fri Jan 11				7
+
+Tue Jan 15				6
+Thu Jan 17				5
+
+Tue Jan 22				6
+Thu Jan 24				5
+
+Tue Jan 29				5
+Thu Jan 31				5
+
+Tue Feb 5				5.5
+Fri Feb 8				5
+
+Thu Feb 14				5.5
+Fri Feb 15				5
+
+Tue Feb 19				5.5
+Fri Feb 22				5
+
+Thu Feb 28				5.5
+Fri Mar 1				5
+
+Thu Mar 7				5.5
+Fri Mar 8				5.5
+
+Tue Mar 12				5
+Thu Mar 14				5
+
+Tue Mar 19				5
+Fri Mar 22				5
+
+Fri Mar 29				5
+
+Tue Apr 2				5
+Thu Apr 4				5
+
+Thu Apr 11				5
+Fri Apr 12				5
+
+Thu Apr 18				7
+
+Tue May 7				5
+Thu May 9				5
+
+
+
+AJ
+Fri Jan 18				5.5
+
+Tue Jan 22				5
+Fri Jan 25				5
+
+Tue Jan 29				5
+Fri Feb 1				5
+
+Tue Feb 5				5
+Fri Feb 8				5
+
+Tue Feb 12				5
+Fri Feb 15				5.5
+
+Tue Feb 19				5
+Fri Feb 22				5
+
+Thu Feb 28				5
+Fri Mar 1				5
+
+Tue Mar 5				4
+Fri Mar 8				5
+
+Tue Mar 12				4.5
+Fri Mar 15				5
+
+Tue Mar 19				5
+Fri Mar 22				5
+
+Tue Mar 26				5
+Fri Mar 29				5
+
+Thu Apr 4				5
+Fri Apr 5				5
+
+Tue Jan 29				4.5
+Fri Apr 12				5
+
+Tue Apr 16				5.5
+Fri Apr 19				5
+
+Tue Apr 23				4.5
+Fri Apr 26				5.5
+
+Fri May 3				5
+
+Tue May 7				6
+Fri May 10				5
+
+
+
+Gabe
+Fri Jan 25				3
+
+Mon Jan 28				3
+Tue Jan 29				5
+Fri Feb 1				3
+
+Mon Feb 4				3
+Tue Feb 5				5.5
+Fri Feb 8				3
+
+Mon Feb 11				3
+Tue Feb 12				5
+Fri Feb 15				2.5
+
+Mon Feb 18				3
+Tue Feb 19				5.5
+Fri Feb 22				2.5
+
+Mon Feb 25				3
+Tue Feb 26				5
+Fri Mar 1				4.5
+
+Tue Mar 5				5
+Thu Mar 7				6
+Fri Mar 8				6.5
+
+Mon Mar 11				3
+Tue Mar 12				5.5
+Fri Mar 15				3
+
+Mon Mar 18				3
+Tue Mar 19				5
+Fri Mar 22				2
+
+Mon Mar 25				3
+Tue Mar 26				5
+Thu Mar 28				2
+Fri Mar 29				2
+
+Mon Apr 1				3
+Tue Apr 2				6
+Fri Apr 5				2
+
+Mon Apr 8				3
+Tue Apr 9				5
+Fri Apr 12				3
+
+Mon Apr 15				3
+Fri Apr 12				3
+
+Mon Apr 22				3
+Thu Apr 25				4.5
+Fri Apr 26				4
+
+Thu May 2				5.5
+Fri May 3				6.5
+
+
+
+Jacob
+Mon Mar 18				3
+Fri Mar 22				6
+
+Mon Mar 25				3
+Fri Mar 29				5
+
+Mon Apr 1				3
+Fri Apr 5				5
+
+Mon Apr 8				3
+Fri Apr 12				6
+
+Mon Apr 15				3
+Fri Apr 19				7
+
+Mon Apr 22				3.5
+Fri Apr 26				6
+
+Fri May 3				6
+
+Mon May 6				3.5
+Tue May 7				4
+Fri May 10				3
+
+Mon May 13				3
+
+
+
+Jiwon
+Mon Apr 1				4
+Fri Apr 5				4
+
+Mon Apr 8				4
+Fri Apr 12				3.5
+
+Mon Apr 15				3.5
+Fri Apr 19				4
+
+Mon Apr 22				3.5
+Fri Apr 26				4
+
+Tue Apr 30				5
+Fri May 3				3
+
+Mon May 6				4
+Fri May 10				5
+
+Mon May 13				5
+
+
+
+Robert
+Fri Apr 5				5
+
+Mon Apr 8				5
+Fri Apr 12				5
+
+Mon Apr 15				5
+Fri Apr 19				5
+
+Mon Apr 22				5
+Fri Apr 26				5
+
+Mon Apr 29				4
+Fri May 3				5
+
+Mon May 6				5
+Fri May 10				5
+
+Mon May 13				5
+
+
+
+Emily
+Mon Apr 15				5
+Fri Apr 19				4.5
+
+Mon Apr 22				5
+Fri Apr 26				5
+
+Mon Apr 29				5
+Fri May 3				6
+
+Tue May 7				5
+Fri May 10				4
+
+Mon May 13				8
+
+
+
+Sanket
+Tue Apr 30				5
+Fri May 3				6
+
+Tue May 7				6
+Thu May 9				5
+
+
+
+Judicael
+Mon May 6				5
+Fri May 10				5
+
+Mon May 13				3
+
+
+
+Jason
+Mon May 6				5
+Fri May 10				5
+
+Mon May 13				5
+
+
+
+Seth
+Mon May 6				5
+Tue May 7				5
+
+Mon May 13				5
+
+
+
+Arthur
+Tue May 7				1
+
+
+
+Alex
+Tue May 7				4
+Fri May 10				5
+
+Mon May 13				5
+
+
+
+Abby
+Tue May 7				5
+Thu May 9				5
+
+Mon May 13				4
+
+
+
+
+
+
+
+Roni
+Thu Sept 27				2
+
+Tue Oct 2				4
+Thu Oct 4				4
+
+Tue Oct 9				questions via email
+Thu Oct 11				3
+
+Tue Oct 16				questions via email
+Thu Oct 18				4
+
+Tue Oct 23				4
+Thu Oct 25				4
+
+Tue Oct 30				4
+Thu Nov 1				4
+
+Tue Nov 6				3.5
+
+Tue Nov 13				3
+Thu Nov 15				4
+
+Tue Nov 20				4
+
+Wed Dec 5				4
+Thu Dec 6				4.5
+Sat Dec 8				1
+
+Wed Dec 12				4
+
+Tue Dec 18				4
+Wed Dec 19				3
+
+Wed Jan 2				4
+Fri Jan 4				2
+
+
+
+
 Gianmarco
 Mon Aug 20				4
 Tue Aug 21				4
@@ -79,22 +432,87 @@ Mon Jan 21				5
 Fri Jan 25				4
 
 
+Lily
+Mon Jan 14				5
+Fri Jan 18				5
 
-Prachi
-Thu Dec 6				5.5
-Sat Dec 8				2
+Mon Jan 21				5
+Fri Jan 25				5
 
-Tue Jan 8				3
-Fri Jan 11				7
+Mon Jan 28				5
+Fri Feb 1				5
 
-Tue Jan 15				6
-Thu Jan 17				5
+Fri Feb 8				5
 
-Tue Jan 22				6
-Thu Jan 24				5
+Mon Feb 11				5
+Fri Feb 15				5
 
-Tue Jan 29				5
-Thu Jan 31				
+Mon Feb 18				5
+Fri Feb 22				5
+
+Mon Feb 25				5
+Fri Mar 1				5
+
+Tue Mar 5				5
+
+Mon Mar 11				5
+Fri Mar 15				6
+
+Mon Mar 18				5
+Fri Mar 22				5
+
+Mon Mar 25				5
+Fri Mar 29				5
+
+
+
+MaryViolet
+Fri Feb 8				5
+
+Mon Feb 11				5
+
+Fri Feb 22				5
+
+Mon Feb 25				5
+Fri Mar 1				5
+
+Mon Mar 11				5
+
+Fri Mar 22				5
+
+Mon Mar 25				5
+Fri Mar 29				5
+
+Mon Apr 1				4
+Fri Apr 5				5
+
+Mon Apr 8				5
+
+
+
+Kamila
+Tue Feb 5				2
+Fri Feb 8				7
+
+Tue Feb 12				5
+Fri Feb 15				5
+
+Tue Feb 19				4
+Fri Feb 22				6
+
+Tue Feb 26				4
+
+Thu Mar 7				7
+Fri Mar 8				5
+
+Tue Mar 19				4
+Fri Mar 22				7
+
+Tue Mar 26				4
+Fri Mar 29				6
+
+Tue Apr 2				4
+Fri Apr 5				7
 
 
 
@@ -109,6 +527,37 @@ Thu Jan 24				5
 Fri Jan 25				5
 
 Thu Jan 31				5
+Fri Feb 1				5
+
+Thu Feb 7				5
+Fri Feb 8				5
+
+Thu Feb 14				5
+Fri Feb 15				5
+
+Thu Feb 21				5
+Fri Feb 22				5
+
+Thu Feb 28				5
+Fri Mar 1				5
+
+Thu Mar 7				5
+Fri Mar 8				5
+
+Thu Mar 14				5
+Fri Mar 15				5
+
+Thu Mar 28				5
+Fri Mar 29				5
+
+Thu Apr 4				5
+Fri Apr 5				5
+
+Thu Apr 11				5
+Fri Apr 12				5
+
+Thu Apr 18				5
+Fri Apr 19				5
 
 
 
@@ -131,97 +580,37 @@ Fri Jan 25				6
 
 Thu Jan 31				3
 
+Thu Feb 7				3
+Fri Feb 8				6
 
+Thu Feb 14				3
+Fri Feb 15				6
 
-Lauren
-Fri Jan 11				6.5
-Fri Jan 18				7
-Fri Jan 25				6.5
+Thu Feb 21				3
+Fri Feb 22				6
 
+Thu Mar 7				5
+Fri Mar 8				5
 
-Lily
-Mon Jan 14				5
-Fri Jan 18				5
+Thu Mar 14				3
+Fri Mar 15				6
 
-Mon Jan 21				5
-Fri Jan 25				5
+Fri Mar 22				6
 
-Mon Jan 28				5
+Fri Mar 29				5
 
+Thu Apr 4				3
+Fri Apr 5				6
 
-Josh
-Fri Jan 11				5
+Tue Apr 9				3.5
 
-Thu Jan 17				5
-Fri Jan 18				5
+Tue Apr 16				3
 
-Thu Jan 31				3
+Thu Apr 25				3
+Fri Apr 26				5.5
 
-
-AJ
-Fri Jan 18				5.5
-
-Tue Jan 22				5
-Fri Jan 25				5
-
-Tue Jan 29				5
-
-
-Gabe
-Fri Jan 25				3
-
-Mon Jan 28				3
-Tue Jan 29				5
-
-
-Kain
-Thu Jan 24				5
-Fri Jan 25				5
-
-Thu Jan 31				5
-
-
-
-
-
-
-Roni
-Thu Sept 27				2
-
-Tue Oct 2				4
-Thu Oct 4				4
-
-Tue Oct 9				questions via email
-Thu Oct 11				3
-
-Tue Oct 16				questions via email
-Thu Oct 18				4
-
-Tue Oct 23				4
-Thu Oct 25				4
-
-Tue Oct 30				4
-Thu Nov 1				4
-
-Tue Nov 6				3.5
-
-Tue Nov 13				3
-Thu Nov 15				4
-
-Tue Nov 20				4
-
-Wed Dec 5				4
-Thu Dec 6				4.5
-Sat Dec 8				1
-
-Wed Dec 12				4
-
-Tue Dec 18				4
-Wed Dec 19				3
-
-Wed Jan 2				4
-Fri Jan 4				2
-
+Thu May 2				3
+Fri May 3				5
 
 
 
