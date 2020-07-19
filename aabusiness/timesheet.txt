@@ -1,616 +1,123 @@
-Prachi
-Thu Dec 6				5.5
-Sat Dec 8				2
+Abe
+Fri Mar 6     5
 
-Tue Jan 8				3
-Fri Jan 11				7
+Mon Mar 9     6
+Fri Mar 13    6
 
-Tue Jan 15				6
-Thu Jan 17				5
+Mon Mar 16    2.5
+Wed Mar 18    2
+Fri Mar 20    5.5
 
-Tue Jan 22				6
-Thu Jan 24				5
+Mon Mar 23    3
+Wed Mar 25    2.5
+Fri Mar 27    5.5
 
-Tue Jan 29				5
-Thu Jan 31				5
+Mon Mar 30    2.5
+Wed Apr  1    3
+Fri Apr  3    6
 
-Tue Feb 5				5.5
-Fri Feb 8				5
+Mon Apr  6    3
+Wed Apr  8    2
+Fri Apr 10    5
 
-Thu Feb 14				5.5
-Fri Feb 15				5
+Mon Apr 13    3
+Wed Apr 15    2
+Fri Apr 17    5
 
-Tue Feb 19				5.5
-Fri Feb 22				5
+Mon Apr 20    2.5
+Wed Apr 22    2.5
+Fri Apr 24    5.5
 
-Thu Feb 28				5.5
-Fri Mar 1				5
+Mon Apr 27    2
+Wed Apr 29    4
+Fri May  1    5.5
 
-Thu Mar 7				5.5
-Fri Mar 8				5.5
+Mon May  4    2
+Wed May  6    3
+Fri May  8    5
 
-Tue Mar 12				5
-Thu Mar 14				5
+Tue May 12    5
+Thu May 14    5
 
-Tue Mar 19				5
-Fri Mar 22				5
+Tue May 19    5
+Thu May 21    5
 
-Fri Mar 29				5
+Tue May 26    5
+Thu May 28    5
 
-Tue Apr 2				5
-Thu Apr 4				5
+Tue Jun  2    5
+Thu Jun  4    5
 
-Thu Apr 11				5
-Fri Apr 12				5
+Tue Jun  9    5
 
-Thu Apr 18				7
+Thu Jun 18    5
 
-Tue May 7				5
-Thu May 9				5
+Tue Jun 23    5
+Thu Jun 25    5
 
+Tue Jun 30    5
+Thu Jul 2     5
 
+Tue Jul 7     5
+Thu Jul 9     5
+Fri Jul 10    1
 
-AJ
-Fri Jan 18				5.5
+Tue Jul 14    5
 
-Tue Jan 22				5
-Fri Jan 25				5
 
-Tue Jan 29				5
-Fri Feb 1				5
 
-Tue Feb 5				5
-Fri Feb 8				5
+Anderson
+Mon Mar 30    4
+Wed Apr  1    4
+Fri Apr  3    3
 
-Tue Feb 12				5
-Fri Feb 15				5.5
+Mon Apr  6    4
+Wed Apr  8    4
+Fri Apr 10    2
 
-Tue Feb 19				5
-Fri Feb 22				5
+Wed Apr 15    4
+Fri Apr 17    3
 
-Thu Feb 28				5
-Fri Mar 1				5
+Mon Apr 20    4
+Wed Apr 22    4
+Fri Apr 24    2.5
 
-Tue Mar 5				4
-Fri Mar 8				5
+Mon Apr 27    4
+Wed Apr 29    4
 
-Tue Mar 12				4.5
-Fri Mar 15				5
+Mon May  4    2
+Wed May  6    4
+Fri May  8    3
 
-Tue Mar 19				5
-Fri Mar 22				5
+Tue May 12    5
+Thu May 14    5
 
-Tue Mar 26				5
-Fri Mar 29				5
+Tue May 19    5
+Thu May 21    5
 
-Thu Apr 4				5
-Fri Apr 5				5
+Tue May 26    5
 
-Tue Jan 29				4.5
-Fri Apr 12				5
+Tue Jun  2    5
+Thu Jun  4    5
 
-Tue Apr 16				5.5
-Fri Apr 19				5
+Tue Jun  9    5
+Thu Jun 11    3.5
 
-Tue Apr 23				4.5
-Fri Apr 26				5.5
+Tue Jun 16    4.5
+Thu Jun 18    5
 
-Fri May 3				5
+Thu Jun 25    4.5
 
-Tue May 7				6
-Fri May 10				5
+Tue Jun 30    5
+Thu Jul 2     4.5
 
+Tue Jul 7     5
+Thu Jul 9     4.5
+Fri Jul 10    2
 
+Tue Jul 14    4.5
 
-Gabe
-Fri Jan 25				3
 
-Mon Jan 28				3
-Tue Jan 29				5
-Fri Feb 1				3
 
-Mon Feb 4				3
-Tue Feb 5				5.5
-Fri Feb 8				3
-
-Mon Feb 11				3
-Tue Feb 12				5
-Fri Feb 15				2.5
-
-Mon Feb 18				3
-Tue Feb 19				5.5
-Fri Feb 22				2.5
-
-Mon Feb 25				3
-Tue Feb 26				5
-Fri Mar 1				4.5
-
-Tue Mar 5				5
-Thu Mar 7				6
-Fri Mar 8				6.5
-
-Mon Mar 11				3
-Tue Mar 12				5.5
-Fri Mar 15				3
-
-Mon Mar 18				3
-Tue Mar 19				5
-Fri Mar 22				2
-
-Mon Mar 25				3
-Tue Mar 26				5
-Thu Mar 28				2
-Fri Mar 29				2
-
-Mon Apr 1				3
-Tue Apr 2				6
-Fri Apr 5				2
-
-Mon Apr 8				3
-Tue Apr 9				5
-Fri Apr 12				3
-
-Mon Apr 15				3
-Fri Apr 12				3
-
-Mon Apr 22				3
-Thu Apr 25				4.5
-Fri Apr 26				4
-
-Thu May 2				5.5
-Fri May 3				6.5
-
-
-
-Jacob
-Mon Mar 18				3
-Fri Mar 22				6
-
-Mon Mar 25				3
-Fri Mar 29				5
-
-Mon Apr 1				3
-Fri Apr 5				5
-
-Mon Apr 8				3
-Fri Apr 12				6
-
-Mon Apr 15				3
-Fri Apr 19				7
-
-Mon Apr 22				3.5
-Fri Apr 26				6
-
-Fri May 3				6
-
-Mon May 6				3.5
-Tue May 7				4
-Fri May 10				3
-
-Mon May 13				3
-
-
-
-Jiwon
-Mon Apr 1				4
-Fri Apr 5				4
-
-Mon Apr 8				4
-Fri Apr 12				3.5
-
-Mon Apr 15				3.5
-Fri Apr 19				4
-
-Mon Apr 22				3.5
-Fri Apr 26				4
-
-Tue Apr 30				5
-Fri May 3				3
-
-Mon May 6				4
-Fri May 10				5
-
-Mon May 13				5
-
-
-
-Robert
-Fri Apr 5				5
-
-Mon Apr 8				5
-Fri Apr 12				5
-
-Mon Apr 15				5
-Fri Apr 19				5
-
-Mon Apr 22				5
-Fri Apr 26				5
-
-Mon Apr 29				4
-Fri May 3				5
-
-Mon May 6				5
-Fri May 10				5
-
-Mon May 13				5
-
-
-
-Emily
-Mon Apr 15				5
-Fri Apr 19				4.5
-
-Mon Apr 22				5
-Fri Apr 26				5
-
-Mon Apr 29				5
-Fri May 3				6
-
-Tue May 7				5
-Fri May 10				4
-
-Mon May 13				8
-
-
-
-Sanket
-Tue Apr 30				5
-Fri May 3				6
-
-Tue May 7				6
-Thu May 9				5
-
-
-
-Judicael
-Mon May 6				5
-Fri May 10				5
-
-Mon May 13				3
-
-
-
-Jason
-Mon May 6				5
-Fri May 10				5
-
-Mon May 13				5
-
-
-
-Seth
-Mon May 6				5
-Tue May 7				5
-
-Mon May 13				5
-
-
-
-Arthur
-Tue May 7				1
-
-
-
-Alex
-Tue May 7				4
-Fri May 10				5
-
-Mon May 13				5
-
-
-
-Abby
-Tue May 7				5
-Thu May 9				5
-
-Mon May 13				4
-
-
-
-
-
-
-
-Roni
-Thu Sept 27				2
-
-Tue Oct 2				4
-Thu Oct 4				4
-
-Tue Oct 9				questions via email
-Thu Oct 11				3
-
-Tue Oct 16				questions via email
-Thu Oct 18				4
-
-Tue Oct 23				4
-Thu Oct 25				4
-
-Tue Oct 30				4
-Thu Nov 1				4
-
-Tue Nov 6				3.5
-
-Tue Nov 13				3
-Thu Nov 15				4
-
-Tue Nov 20				4
-
-Wed Dec 5				4
-Thu Dec 6				4.5
-Sat Dec 8				1
-
-Wed Dec 12				4
-
-Tue Dec 18				4
-Wed Dec 19				3
-
-Wed Jan 2				4
-Fri Jan 4				2
-
-
-
-
-Gianmarco
-Mon Aug 20				4
-Tue Aug 21				4
-Thu Aug 23				5.5
-
-Tue Aug 28				5.5
-Wed Aug 29				5
-Thu Aug 30				4
-
-Tue Sept 4				4.5
-Wed Sept 5				5.5
-
-Mon Sept 10				4
-Tue Sept 11				4
-Thu Sept 13				4
-
-Tue Sept 18				4
-Thu Sept 19				4
-Fri Sept 21				3.5
-
-Mon Sept 24				3.5
-Tue Sept 25				3.5
-Thu Sept 27				4
-Fri Sept 28				fixed minor issue
-
-Mon Oct 1				4
-Tue Oct 2				4
-Thu Oct 4				3
-
-Mon Oct 8				6
-Tue Oct 9				4.5
-
-Mon Oct 15				5
-Tue Oct 16				4
-Fri Oct 19				looked into jitsi js
-
-Mon Oct 22				4
-Tue Oct 23				3.5
-
-Mon Oct 29				4.5
-Tue Oct 30				4
-Fri Nov 2				5
-
-Mon Nov 5				4
-Tue Nov 6				4
-Fri Nov 9				1
-
-Tue Nov 13				5
-Thu Nov 15				4
-Fri Nov 16				4
-
-Mon Nov 19				4
-Tue Nov 20				4.5
-
-Mon Nov 26				5
-Tue Nov 27				5.5
-Thu Nov 29				5
-
-Mon Dec 3				4
-Wed Dec 5				6
-
-Mon Dec 10				4
-Tue Dec 11				4
-
-Mon Dec 17				4
-Tue Dec 18				4
-Wed Dec 19				4
-
-Wed Jan 2				4
-Fri Jan 4				4
-
-Wed Jan 9				3
-Fri Jan 11				4
-
-Mon Jan 14				3.5
-Tue Jan 15				3.5
-
-Mon Jan 21				5
-Fri Jan 25				4
-
-
-Lily
-Mon Jan 14				5
-Fri Jan 18				5
-
-Mon Jan 21				5
-Fri Jan 25				5
-
-Mon Jan 28				5
-Fri Feb 1				5
-
-Fri Feb 8				5
-
-Mon Feb 11				5
-Fri Feb 15				5
-
-Mon Feb 18				5
-Fri Feb 22				5
-
-Mon Feb 25				5
-Fri Mar 1				5
-
-Tue Mar 5				5
-
-Mon Mar 11				5
-Fri Mar 15				6
-
-Mon Mar 18				5
-Fri Mar 22				5
-
-Mon Mar 25				5
-Fri Mar 29				5
-
-
-
-MaryViolet
-Fri Feb 8				5
-
-Mon Feb 11				5
-
-Fri Feb 22				5
-
-Mon Feb 25				5
-Fri Mar 1				5
-
-Mon Mar 11				5
-
-Fri Mar 22				5
-
-Mon Mar 25				5
-Fri Mar 29				5
-
-Mon Apr 1				4
-Fri Apr 5				5
-
-Mon Apr 8				5
-
-
-
-Kamila
-Tue Feb 5				2
-Fri Feb 8				7
-
-Tue Feb 12				5
-Fri Feb 15				5
-
-Tue Feb 19				4
-Fri Feb 22				6
-
-Tue Feb 26				4
-
-Thu Mar 7				7
-Fri Mar 8				5
-
-Tue Mar 19				4
-Fri Mar 22				7
-
-Tue Mar 26				4
-Fri Mar 29				6
-
-Tue Apr 2				4
-Fri Apr 5				7
-
-
-
-Tristan
-Thu Jan 10				3.5
-Fri Jan 11				4
-
-Thu Jan 17				5
-Fri Jan 18				5
-
-Thu Jan 24				5
-Fri Jan 25				5
-
-Thu Jan 31				5
-Fri Feb 1				5
-
-Thu Feb 7				5
-Fri Feb 8				5
-
-Thu Feb 14				5
-Fri Feb 15				5
-
-Thu Feb 21				5
-Fri Feb 22				5
-
-Thu Feb 28				5
-Fri Mar 1				5
-
-Thu Mar 7				5
-Fri Mar 8				5
-
-Thu Mar 14				5
-Fri Mar 15				5
-
-Thu Mar 28				5
-Fri Mar 29				5
-
-Thu Apr 4				5
-Fri Apr 5				5
-
-Thu Apr 11				5
-Fri Apr 12				5
-
-Thu Apr 18				5
-Fri Apr 19				5
-
-
-
-Chris A
-Fri Nov 30				7
-Fri Dec 7				4
-
-Mon Dec 10				6
-Tue Dec 11				6
-Wed Dec 12				5
-
-Thu Jan 10				3
-Fri Jan 11				6.5
-
-Thu Jan 17				3
-
-Tue Jan 22				3
-Thu Jan 24				3
-Fri Jan 25				6
-
-Thu Jan 31				3
-
-Thu Feb 7				3
-Fri Feb 8				6
-
-Thu Feb 14				3
-Fri Feb 15				6
-
-Thu Feb 21				3
-Fri Feb 22				6
-
-Thu Mar 7				5
-Fri Mar 8				5
-
-Thu Mar 14				3
-Fri Mar 15				6
-
-Fri Mar 22				6
-
-Fri Mar 29				5
-
-Thu Apr 4				3
-Fri Apr 5				6
-
-Tue Apr 9				3.5
-
-Tue Apr 16				3
-
-Thu Apr 25				3
-Fri Apr 26				5.5
-
-Thu May 2				3
-Fri May 3				5
-
-
-
+aquatic-quince-hk5v4fv7u3ch3uwl8jm5uuk3.herokudns.com
+guarded-lily-jp55hj54lvpb7071xriymway.herokudns.com
